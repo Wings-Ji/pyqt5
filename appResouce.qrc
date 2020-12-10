@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="图片">
+    <file>resource/writeTest.xls</file>
+    <file>resource/timg.jpg</file>
+  </qresource>
+</RCC>
